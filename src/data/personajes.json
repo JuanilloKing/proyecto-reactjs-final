@@ -1,0 +1,66 @@
+[
+    {
+        "name": "Broly & Cheelai & Lemo",
+        "title": "A New Life on Vampa",
+        "rarity": "LR",
+        "class": "Extreme",
+        "type": "PHY",
+        "imageURL": "https://vignette.wikia.nocookie.net/dbz-dokkanbattle/images/9/9e/Card_1019000_thumb_apng.png/revision/latest?cb=20200217115345&format=original"
+    },
+    {
+        "name": "Super Saiyan 2 Vegeta (Angel)",
+        "title": "A Promise Made to Kakarot",
+        "rarity": "LR",
+        "class": "Super",
+        "type": "PHY",
+        "imageURL": "https://vignette.wikia.nocookie.net/dbz-dokkanbattle/images/a/a1/Card_1020220_thumb_apng.png/revision/latest?cb=20200916113202&format=original"
+    },
+    {
+        "name": "Super Saiyan God SS Vegito",
+        "title": "All or Nothing",
+        "rarity": "LR",
+        "class": "Super",
+        "type": "STR",
+        "imageURL": "https://vignette.wikia.nocookie.net/dbz-dokkanbattle/images/7/71/Card_1011680_thumb_apng.png/revision/latest?cb=20190117172219&format=original"
+    },
+    {
+        "name": "Super Saiyan Trunks (Future)",
+        "title": "Alternate Ending",
+        "rarity": "LR",
+        "class": "Super",
+        "type": "AGL",
+        "imageURL": "https://vignette.wikia.nocookie.net/dbz-dokkanbattle/images/2/2a/Card_1014050_thumb_apng.png/revision/latest?cb=20190117170514&format=original"
+    },
+    {
+        "name": "Super Saiyan 4 Goku",
+        "title": "Apex of Supreme Saiyan Power",
+        "rarity": "LR",
+        "class": "Super",
+        "type": "AGL",
+        "imageURL": "https://vignette.wikia.nocookie.net/dbz-dokkanbattle/images/c/c9/Card_1014210_thumb_apng.png/revision/latest?cb=20190130084752&format=original"
+    },
+    {
+        "name": "Super Saiyan Vegeta",
+        "title": "Awakened Saiyan Blood",
+        "rarity": "LR",
+        "class": "Extreme",
+        "type": "INT",
+        "imageURL": "https://vignette.wikia.nocookie.net/dbz-dokkanbattle/images/c/c6/Card_1015030_thumb_apng.png/revision/latest?cb=20190117170756&format=original"
+    },
+    {
+        "name": "Majin Vegeta",
+        "title": "Beyond the Ferocious Flash",
+        "rarity": "LR",
+        "class": "Extreme",
+        "type": "AGL",
+        "imageURL": "https://vignette.wikia.nocookie.net/dbz-dokkanbattle/images/4/4e/Card_1010160_thumb_apng.png/revision/latest?cb=20190117163909&format=original"
+    },
+    {
+        "name": "Great Saiyaman 1 & 2",
+        "title": "Blazing Love and Burning Justice",
+        "rarity": "LR",
+        "class": "Super",
+        "type": "PHY",
+        "imageURL": "https://vignette.wikia.nocookie.net/dbz-dokkanbattle/images/0/01/Card_1013390_thumb_apng.png/revision/latest?cb=20190117164359&format=original"
+    }
+]

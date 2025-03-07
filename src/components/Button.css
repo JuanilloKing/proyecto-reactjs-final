@@ -1,0 +1,24 @@
+.button {
+    display: inline-block;
+    padding: 10px 15px;
+    font-size: 16px;
+    color: white;
+    background-color: #9e1e1e; 
+    border: none;
+    border-radius: 5px;
+    text-decoration: none;
+    cursor: pointer;
+    transition: background 0.3s, box-shadow 0.3s;
+    position: relative;
+    z-index: 1;
+  }
+  
+  .button:hover {
+    background-color: #ff6347;
+    box-shadow: 0 0 20px rgba(255, 255, 0, 0.8), 0 0 40px rgba(255, 255, 0, 0.6), 0 0 60px rgba(255, 255, 0, 0.4);
+    color: black;
+  }
+
+  .nav-button {
+    margin: 5px;
+  }

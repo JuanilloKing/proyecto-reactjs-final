@@ -1,0 +1,29 @@
+.homepage {
+    width: 100vw;
+    height: 100vh;  /* Ocupa toda la pantalla */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center; /* Centrar contenido */
+    text-align: center;
+    padding: 20px;
+    box-sizing: border-box;
+  }
+  
+  .video-container {
+    margin-top: 20px;
+  }
+  
+  .play-button {
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  
+  .homepage-video {
+    width: 100%;
+    max-width: 1200px;
+    display: block;
+    margin: 20px auto;
+  }
+  
